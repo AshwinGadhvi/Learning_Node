@@ -1,0 +1,11 @@
+=> Node.js Basics
+- **Node.js Basics**: Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine(enviroment)
+
+
+// npm -> node package manager (play store, app store type)
+//working 
+
+//npm init
+//npm basic usage
+
+
