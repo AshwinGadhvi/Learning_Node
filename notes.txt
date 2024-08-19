@@ -9,3 +9,13 @@
 //npm basic usage
 
 
+ //for install package
+ //npm i <package_name>
+
+ //for unistall package
+ //npm unistall <package_name>
+
+
+//install perticular version
+//npm i <package_name>@version 
+
